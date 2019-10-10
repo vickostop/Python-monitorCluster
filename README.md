@@ -1,6 +1,6 @@
 # Monitoring a cluster
 A python app that monitors a cluster and adds or removes dynamically nodes depending to the general performance and the available resources.
-A Spark and a Spark Streaming process are been used, as well as Ganglia monitoring system.
+For the resources depletion, a Spark and a Spark Streaming process are been used, as well as Ganglia monitoring system.
 
 grep.py - <i>A simple grep process for resource consumption; it has to be applied in a very large file.</i>
 
